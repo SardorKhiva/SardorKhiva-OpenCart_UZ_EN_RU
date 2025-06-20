@@ -33,8 +33,8 @@ $_['entry_status']           = 'Holat';
 $_['entry_layout']           = 'Maket';
 
 // Yordam
-$_['help_parent']            = '(Avtoto''ldirish)';
-$_['help_filter']            = '(Avtoto''ldirish)';
+$_['help_parent']            = '(Avtoto\'ldirish)';
+$_['help_filter']            = '(Avtoto\'ldirish)';
 $_['help_top']               = 'Asosiy menyuda ko\'rsatish (faqat asosiy ota kategoriyalari uchun).';
 $_['help_column']            = 'Kategoriya chiquvchi menyusidagi ustunlar soni (faqat asosiy ota kategoriyalari uchun)';
 

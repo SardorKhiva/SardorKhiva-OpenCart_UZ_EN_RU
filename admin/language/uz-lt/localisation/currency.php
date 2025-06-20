@@ -7,7 +7,7 @@ $_['text_success']         = 'Sozlamalar muvaffaqiyatli yangilandi!';
 $_['text_list']            = 'Valyutalar ro\'yxati';
 $_['text_add']             = 'Qo\'shish';
 $_['text_edit']            = 'Tahrirlash';
-$_['text_iso']             = 'Valyutalar kodi ISO va sozlamalari uchun to'liq ro\'yxatni <a href="http://www.xe.com/iso4217.php" target="_blank">usitdan</a> topasiz.';
+$_['text_iso']             = 'Valyutalar kodi ISO va sozlamalari uchun to\'liq ro\'yxatni <a href="http://www.xe.com/iso4217.php" target="_blank">usitdan</a> topasiz.';
 
 // Ustunlar
 $_['column_title']         = 'Valyuta nomi';
